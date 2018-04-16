@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SortingBaju.unity
+- path: Assets/JemurBaju.unity
   isLoaded: 1
   isActive: 1
