@@ -33,4 +33,7 @@ public class KeranjangClick : MonoBehaviour {
 		i++;
 
 	}
+	public void resetID(){
+		i = 0;
+	}
 }
