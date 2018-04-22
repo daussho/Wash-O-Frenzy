@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/CuciBaju.unity
+- path: Assets/SortingBaju.unity
   isLoaded: 1
   isActive: 1
