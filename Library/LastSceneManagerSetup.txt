@@ -1,4 +1,12 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/CuciBaju.unity
+=======
+<<<<<<< HEAD
+- path: Assets/JemurBaju.unity
+=======
+- path: Assets/SortingBaju.unity
+>>>>>>> de94721bfdc6fe9db68db1a772a07288e6f1605b
+>>>>>>> e8edb795cb98e6d0b430e566abe133d146ddbb3e
   isLoaded: 1
   isActive: 1
