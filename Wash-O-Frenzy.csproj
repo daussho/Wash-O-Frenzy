@@ -294,6 +294,7 @@
     <Compile Include="Assets\Import UI\Scripts\ShowSliderValue.cs" />
     <Compile Include="Assets\Import UI\Scripts\TiltWindow.cs" />
     <Compile Include="Assets\Scripts\ArrayManager.cs" />
+    <Compile Include="Assets\Scripts\BurungController.cs" />
     <Compile Include="Assets\Scripts\GameControl.cs" />
     <Compile Include="Assets\Scripts\KeranjangClick.cs" />
     <Compile Include="Assets\Scripts\LoadOnClick.cs" />

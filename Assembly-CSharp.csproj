@@ -65,6 +65,7 @@
      <Compile Include="Assets\Scripts\ArrayManager.cs" />
      <Compile Include="Assets\Scripts\GameControl.cs" />
      <Compile Include="Assets\Scripts\KeranjangClick.cs" />
+     <Compile Include="Assets\Scripts\LoadOnClick.cs" />
      <Compile Include="Assets\Scripts\LoadSceneOnClick.cs" />
      <Compile Include="Assets\Scripts\ObjectIdentity.cs" />
      <Compile Include="Assets\Scripts\SpawnBaju.cs" />

@@ -20,11 +20,19 @@ MonoBehaviour:
     x: 0
     y: 30
     width: 1366
+<<<<<<< HEAD
     height: 675
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
   controlID: 1009
+=======
+    height: 635
+  m_MinSize: {x: 713, y: 492}
+  m_MaxSize: {x: 18008, y: 14042}
+  vertical: 0
+  controlID: 119
+>>>>>>> cc0f84df1f949806760ce07822a37b2fa00b5472
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,7 +133,11 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 1010
+=======
+  controlID: 69
+>>>>>>> cc0f84df1f949806760ce07822a37b2fa00b5472
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,8 +154,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 855
     height: 329
+=======
+    width: 608
+    height: 326
+>>>>>>> cc0f84df1f949806760ce07822a37b2fa00b5472
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 5}
@@ -271,12 +288,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 855
     y: 0
+<<<<<<< HEAD
     width: 234
     height: 675
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
   controlID: 970
+=======
+    width: 336
+    height: 635
+  m_MinSize: {x: 234, y: 492}
+  m_MaxSize: {x: 10004, y: 14042}
+  vertical: 1
+  controlID: 90
+>>>>>>> cc0f84df1f949806760ce07822a37b2fa00b5472
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -333,7 +359,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 52c1ffff9efbffff00000000522a0000682a0000
+=======
+    m_ExpandedIDs: 82fbffff00000000
+>>>>>>> cc0f84df1f949806760ce07822a37b2fa00b5472
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -371,9 +401,15 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 387
     width: 234
     height: 288
+=======
+    y: 364
+    width: 336
+    height: 271
+>>>>>>> cc0f84df1f949806760ce07822a37b2fa00b5472
   m_MinSize: {x: 234, y: 271}
   m_MaxSize: {x: 10004, y: 10021}
   m_ActualView: {fileID: 11}
@@ -419,19 +455,26 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders:
-    - Assets/Scripts
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\Balya\Documents\!0 Desktop\Projects\Unity\Wash-O-Frenzy
+=======
+  m_LastProjectPath: D:\Unity\PPAM
+>>>>>>> cc0f84df1f949806760ce07822a37b2fa00b5472
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 8c270000
     m_LastClickedID: 10124
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000662700006a27000084280000fa280000f2290000
+=======
+    m_ExpandedIDs: 0000000090270000942700008a2800005c2a0000
+>>>>>>> cc0f84df1f949806760ce07822a37b2fa00b5472
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -456,10 +499,17 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 42.1066}
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: 00000000662700006a27000084280000fa280000f2290000
+=======
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 0000000090270000942700008a2800005c2a0000
+>>>>>>> cc0f84df1f949806760ce07822a37b2fa00b5472
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -530,8 +580,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1089
     y: 0
+<<<<<<< HEAD
     width: 277
     height: 675
+=======
+    width: 422
+    height: 635
+>>>>>>> cc0f84df1f949806760ce07822a37b2fa00b5472
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 13}
