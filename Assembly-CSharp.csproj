@@ -69,6 +69,7 @@
      <Compile Include="Assets\Scripts\LoadSceneOnClick.cs" />
      <Compile Include="Assets\Scripts\ObjectIdentity.cs" />
      <Compile Include="Assets\Scripts\SpawnBaju.cs" />
+     <Compile Include="Assets\Scripts\Spin.cs" />
      <None Include="Assets\Import UI\Fonts\Jupiter\LICENSE.txt" />
      <None Include="Assets\Import UI\Textures and Sprites\SF UI\Background\LICENSE.txt" />
      <None Include="Assets\Import UI\Materials\UI-Default-No-Alpha.shader" />

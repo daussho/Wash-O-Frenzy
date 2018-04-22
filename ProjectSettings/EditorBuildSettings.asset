@@ -11,3 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SortingBaju.unity
     guid: 391b456b28e8d47409e68aedffec754e
+  - enabled: 1
+    path: Assets/CuciBaju.unity
+    guid: 338090906f5d9dd47a4bdb8d008ac095
